@@ -1,0 +1,10 @@
+
+datasets/00_DS_Finance/FI_BELEGE_1000_2018.csv
+.vscode/settings.json
+*.tsv
+*.v2
+logs/
+.vscode/
+.vs/
+.git/
+.venv*/
